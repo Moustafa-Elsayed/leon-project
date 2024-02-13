@@ -1,0 +1,11 @@
+/* mobile */
+@media(max-width:767px) {}
+
+/* small screen */
+@media(min-width:768px) {}
+
+/* medium screen */
+@media(min-width:992px) {}
+
+/* large screeen */
+@media(min-width:1200px) {}
